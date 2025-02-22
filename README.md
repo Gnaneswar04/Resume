@@ -3,7 +3,7 @@
 Welcome to my online resume! This repository contains the code for my resume, which is hosted using GitHub Pages.
 
 ## Live Demo
-You can view my resume here: [Resume Link](https://Gnaneswar04.github.io/my-resume)
+You can view my resume here: [Resume Link](https://gnaneswar04.github.io/Resume/ )
 
 ## About Me
 I am a Java Developer with 2+ years of experience in designing, developing, and maintaining scalable applications using Java, Spring Boot, and Angular. I am passionate about problem-solving and mentoring junior developers.
